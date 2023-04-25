@@ -1,0 +1,9 @@
+21:01:48 [ INFO] starting 4 workers
+21:01:48 [ INFO] Actix runtime found; starting in Actix runtime
+21:02:39 [ INFO] SIGINT received; starting forced shutdown
+21:02:39 [DEBUG] (6) actix_server::accept: paused accepting connections on 127.0.0.1:8080
+21:02:39 [ INFO] shutting down idle worker
+21:02:39 [ INFO] shutting down idle worker
+21:02:39 [ INFO] shutting down idle worker
+21:02:39 [ INFO] shutting down idle worker
+21:02:39 [ INFO] accept thread stopped
